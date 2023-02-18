@@ -68,10 +68,6 @@
 		<data>
 		qFvEdwBPp8nkrAZMgal/abZKnM0=
 		</data>
-		<key>flutter_assets/images/goom.png</key>
-		<data>
-		zEt+j3gIRnI4JHPQAljDNnKgnBM=
-		</data>
 		<key>flutter_assets/images/mouv.png</key>
 		<data>
 		6A+folD23VjbCdUQJKB3z0ZpkKQ=
@@ -207,13 +203,6 @@
 			<key>hash2</key>
 			<data>
 			WgJhtAPc4IEovstZJe6eWGBLMTTzczih0BTaX32m+XM=
-			</data>
-		</dict>
-		<key>flutter_assets/images/goom.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Mdiy/CjbdVI5qTmSnPTjxijTxRFsZfo+TABMhw7Gy5Y=
 			</data>
 		</dict>
 		<key>flutter_assets/images/mouv.png</key>
