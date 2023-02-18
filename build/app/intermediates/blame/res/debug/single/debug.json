@@ -1,0 +1,606 @@
+[
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_exo_player_view.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/layout/exo_player_view.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/d75e28b15cc1c230ac3e790d85cf375e/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_icon_play.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_icon_next.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi_splash.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_icon_fastforward.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_icon_fastforward.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_icon_previous.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_icon_play.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_icon_fastforward.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_exo_simple_player_view.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/d75e28b15cc1c230ac3e790d85cf375e/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-v21_background.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/drawable-v21/background.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_controls_fullscreen_enter.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable_background.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_icon_stop.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxxhdpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_icon_pause.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/d75e28b15cc1c230ac3e790d85cf375e/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_icon_rewind.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_controls_fullscreen_exit.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_icon_stop.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_icon_rewind.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_icon_rewind.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_icon_pause.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/d75e28b15cc1c230ac3e790d85cf375e/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/d75e28b15cc1c230ac3e790d85cf375e/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/d75e28b15cc1c230ac3e790d85cf375e/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/d75e28b15cc1c230ac3e790d85cf375e/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_custom_dialog.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_controls_repeat_off.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_controls_repeat_off.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_exo_list_divider.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/layout/exo_list_divider.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_icon_stop.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi_splash.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_icon_rewind.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_icon_pause.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_icon_pause.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_icon_pause.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_icon_stop.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/d75e28b15cc1c230ac3e790d85cf375e/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_icon_previous.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_controls_repeat_all.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_controls_repeat_all.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_icon_previous.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_icon_play.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_icon_play.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_exo_track_selection_dialog.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/layout/exo_track_selection_dialog.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_exo_playback_control_view.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_icon_next.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_icon_pause.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_icon_stop.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_edit_mode_logo.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_controls_repeat_one.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_controls_repeat_one.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_icon_previous.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_icon_play.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_exo_player_control_view.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/layout/exo_player_control_view.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_icon_next.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_icon_next.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_icon_stop.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_icon_stop.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_icon_rewind.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_icon_previous.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_controls_shuffle.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_controls_shuffle.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_icon_pause.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_icon_rewind.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_icon_next.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-ldpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi_splash.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_icon_play.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_icon_rewind.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_icon_play.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_exo_notification_small_icon.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-hdpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_icon_next.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_controls_fullscreen_enter.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi_splash.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/d75e28b15cc1c230ac3e790d85cf375e/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_icon_previous.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_icon_previous.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-anydpi-v21_exo_controls_fullscreen_exit.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xxxhdpi_splash.png.flat",
+        "source": "/Users/aurelien/StudioProjects/goom/android/app/src/main/res/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a4df1247080e88c111b0016e70f8a220/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_exo_icon_next.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-xhdpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/aurelien/StudioProjects/goom/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "/Users/aurelien/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.8.2.aar/dfa28160c1175d65636f276b5ae47720/res/drawable-mdpi-v4/exo_controls_shuffle.png"
+    }
+]
