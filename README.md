@@ -8,13 +8,12 @@ Simple radio application compatible with iOS and Android, developed in Flutter
 *Screenshot from an iPhone 14 Pro Max running iOS 16.2*
         
 ## 🧐 Features    
-- Available for IOS & Android
+- Available for iOS & Android
 - Play/Pause
 - Listen to up to 6 radios
 - Listening in background
 
 ## 🛠️ Tech Stack
-
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 - [XML](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction)
